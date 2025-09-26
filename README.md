@@ -22,19 +22,6 @@ This project is a simple, visually appealing charity website designed to raise a
 - **CSS3** for styling and layout.  
 - **JavaScript** for interactivity and dynamic content.  
 
-## Folder Structure
-```plaintext
-charity-website/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-│   └── logo.png
-└── README.md
-
 ## References
 
 * **How to Create a One-Page Charity Website Using HTML and CSS**
@@ -76,3 +63,18 @@ charity-website/
 * **Charity Website Templates and Resources**
   A collection of charity website templates and design resources.
   [Explore the templates](https://colorlib.com/wp/template/the-charity/)
+
+## Folder Structure
+```plaintext
+charity-website/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+│   └── logo.png
+└── README.md
+
+
