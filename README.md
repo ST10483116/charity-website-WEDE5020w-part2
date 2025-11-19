@@ -1,63 +1,125 @@
-##Cover Page
 
-Course Name: Diploma in information technology in software development 
-Module Name: Web Development WEDE5020w 
-Student Name: Mmapitso Mnisi 
-Student Number: ST10483116 
-Date od submission: 26 September 2025
+## Cover Page
 
+**Course Name:** Diploma in Information Technology in Software Development  
+**Module Name:** Web Development WEDE5020w  
+**Student Name:** Mmapitso Mnisi  
+**Student Number:** ST10483116  
+**Date of Submission:** 26 September 2025  
 
-##Charity Website Project
+---
 
-##Project Overview
-This project is a simple, visually appealing charity website designed to raise awareness and encourage donations for charitable causes. The website aims to provide users with easy access to information about the charity’s mission, ongoing projects, and ways to contribute. The design uses a calming color scheme of blue and yellow to symbolize hope, trust, and positivity.
+## Charity Website Project
 
+### Project Overview
+This project is a simple, visually appealing charity website designed to raise awareness and encourage donations for charitable causes. The website provides users with easy access to information about the charity’s mission, ongoing projects, and ways to contribute. The design uses a calming color scheme of blue and yellow to symbolize hope, trust, and positivity. The website is fully responsive and enhanced with interactive features for improved user experience.
 
-##Features
+---
 
-Home Page: Introduces the charity, its mission, and recent activities.
-About Section: Provides background information on the organization.
-Projects Section: Highlights current and past projects with images and descriptions.
-Donation Section: Offers instructions on how to contribute or volunteer.
-Contact Section: Includes a form for inquiries and a map for location reference.
+## Features
 
-##Technologies Used
+- **Home Page:** Introduces the charity, its mission, and recent activities.  
+- **About Section:** Provides background information on the organization.  
+- **Projects Section:** Highlights current and past projects with images and descriptions.  
+- **Donation Section:** Offers instructions on how to contribute or volunteer.  
+- **Contact Section:** Includes a form for inquiries and a map for location reference.  
+- **Interactive Features:**  
+  - Accordion FAQ section for common questions  
+  - Gallery with lightbox functionality to view project images  
+  - Search/filter functionality for projects/services  
 
-HTML5 for website structure.
-CSS3 for styling and layout.
-JavaScript for interactivity and dynamic content.
+---
 
-##References 
+## Technologies Used
 
-- How to Create a One-Page Charity Website Using HTML and CSS Tracy Renee's tutorial on creating a simple charity website layout. Read the article
+- HTML5 for website structure  
+- CSS3 for styling and layout  
+- JavaScript for interactivity and dynamic content  
+- Responsive design with media queries  
+- SEO best practices implemented (meta tags, alt text, robots.txt, sitemap.xml)  
 
-- Responsive Charity Website Tutorial Step-by-step guide on building a responsive charity website using HTML, CSS, and JavaScript. View the tutorial
+---
 
-- How to Make a Charity Website Using HTML, CSS, and JavaScript A comprehensive guide on building a charity website with HTML, CSS, and JavaScript. Explore the tutorial
+## Forms and Validation
 
-- Charity Website Design Best Practices A collection of best practices for designing effective charity websites. Learn more
+- **Enquiry Form (`enquiry.html`):**  
+  - Collects user name, email, and selected service/project  
+  - JavaScript validation for required fields and proper input formats  
+  - Displays alerts/messages for invalid inputs  
 
-- Effective Website Design for Non-Profits: 2025 Best Practices Insights into creating impactful nonprofit websites. Read the article
+- **Contact Form (`contact.html`):**  
+  - Collects user contact information and message type  
+  - Validates inputs before submission  
+  - Ready for asynchronous (AJAX) submission for better user experience  
 
-- 30 Best Nonprofit Websites + 5 Tips For Designing Your Own A showcase of top nonprofit websites and design tips. Check out the examples
+---
 
-- How to Create a Charity Website – 2025 Step-by-Step Guide A detailed guide on building a charity website using Elementor and WordPress. Follow the guide
+## SEO Enhancements
 
-- Non-Profit and Charity Website UX UX guidelines for attracting donors and volunteers to nonprofit websites. Read the report
+- **On-Page SEO:**  
+  - Optimized title tags and meta descriptions  
+  - Proper heading structure using `<h1>`–`<h3>`  
+  - Alt text applied to all images  
+  - Clean URL structure  
 
-- Responsive Charity Website Tutorial (CodePal) A tutorial on creating a responsive charity website without using Bootstrap. View the tutorial
+- **Technical SEO:**  
+  - `robots.txt` included to guide search engine indexing  
+  - `sitemap.xml` created to assist with search engine crawling  
+  - Optimized image sizes for faster page loading  
 
-- Charity Website Templates and Resources A collection of charity website templates and design resources. Explore the templates
+---
 
-Folder Structure
+## Folder Structure
 charity-website/
 │
 ├── index.html
+├── enquiry.html
+├── contact.html
 ├── css/
-│   └── style.css
+│ └── style.css
 ├── js/
-│   └── script.js
+│ └── script.js
 ├── images/
-│   └── logo.png
+│ └── logo.png
+│ └── project1.jpg
+│ └── project2.jpg
+├── robots.txt
+├── sitemap.xml
 └── README.md
 
+
+---
+
+## Changelog
+| Date | Part | Changes Made |
+|------|------|--------------|
+| 26/09/2025 | Part 2 | Initial project setup with HTML, CSS, and basic content |
+| 19/11/2025 | Part 2 | Adjusted responsive design for mobile devices and tablet breakpoints |
+| 19/11/2025 | Part 3 | Added accordion FAQ section and gallery lightbox functionality |
+| 19/11/2025 | Part 3 | Implemented search/filter functionality for projects/services |
+| 19/11/2025 | Part 3 | Added JavaScript form validation for enquiry and contact forms |
+| 19/11/2025 | Part 3 | Applied SEO improvements: meta tags, alt text, robots.txt, sitemap.xml |
+| 19/11/2025 | Part 3 | Updated README.md with Part 3 details and references |
+
+---
+
+## References
+
+1. How to Create a One-Page Charity Website Using HTML and CSS – Tracy Renee  
+2. Responsive Charity Website Tutorial – Step-by-step guide with HTML, CSS, JS  
+3. How to Make a Charity Website Using HTML, CSS, and JavaScript  
+4. Charity Website Design Best Practices – Effective nonprofit web design  
+5. Effective Website Design for Non-Profits: 2025 Best Practices  
+6. 30 Best Nonprofit Websites + 5 Tips for Designing Your Own  
+7. How to Create a Charity Website – 2025 Step-by-Step Guide  
+8. Non-Profit and Charity Website UX Guidelines  
+9. Responsive Charity Website Tutorial (CodePal)  
+10. Charity Website Templates and Resources  
+
+---
+
+## GitHub Repository
+
+- All project files committed with multiple descriptive commits  
+- Repository contains the full project with Part 2 and Part 3 features  
+- Link to repository: ``
