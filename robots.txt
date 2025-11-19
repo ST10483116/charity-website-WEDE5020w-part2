@@ -1,6 +1,0 @@
-# Allow all web crawlers complete access
-User-agent: *
-Disallow:
-
-# Sitemap location
-Sitemap: https://st10483116.github.io/charity-website-WEDE5020w-part2/
