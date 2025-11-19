@@ -122,4 +122,4 @@ charity-website/
 
 - All project files committed with multiple descriptive commits  
 - Repository contains the full project with Part 2 and Part 3 features  
-- Link to repository: ``
+- Link to repository: `https://github.com/ST10483116/charity-website-WEDE5020w-part2.git`
